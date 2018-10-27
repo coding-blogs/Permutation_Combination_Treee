@@ -5,4 +5,4 @@ Code based on [intution of Permutation and combination](https://buildingvts.com/
 
 Next Task :
 1. Include Test Cases : Adding test.
-2. Use d3 to make tree layout : WIP
+2. Using SVG technology to make tree layout : WIP
